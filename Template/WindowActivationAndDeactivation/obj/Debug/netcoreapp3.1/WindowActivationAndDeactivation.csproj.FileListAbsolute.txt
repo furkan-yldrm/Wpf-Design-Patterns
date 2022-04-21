@@ -1,0 +1,52 @@
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\numbers.wmv
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.exe
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.dll.config
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.deps.json
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.runtimeconfig.json
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.runtimeconfig.dev.json
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.dll
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.pdb
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.csproj.AssemblyReference.cache
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.dll.config
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation_Content.g.cs
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation_MarkupCompile.cache
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation_MarkupCompile.lref
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.g.resources
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.Properties.Resources.resources
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.csproj.GenerateResource.cache
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.AssemblyInfoInputs.cache
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.AssemblyInfo.cs
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.dll
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.pdb
+C:\Users\my pc\Desktop\Yeni klasör\Windows\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.genruntimeconfig.cache
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\numbers.wmv
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.exe
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.dll.config
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.deps.json
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.runtimeconfig.json
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.runtimeconfig.dev.json
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.dll
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\bin\Debug\netcoreapp3.1\WindowActivationAndDeactivation.pdb
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.dll.config
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation_Content.g.cs
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation_MarkupCompile.cache
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation_MarkupCompile.lref
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.g.resources
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.Properties.Resources.resources
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.AssemblyInfo.cs
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.dll
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.pdb
+C:\Users\furka\Desktop\Template\WindowActivationAndDeactivation\obj\Debug\netcoreapp3.1\WindowActivationAndDeactivation.genruntimeconfig.cache
