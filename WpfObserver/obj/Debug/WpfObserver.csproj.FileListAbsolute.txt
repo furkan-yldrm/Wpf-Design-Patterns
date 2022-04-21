@@ -1,0 +1,14 @@
+C:\Users\furka\Desktop\OOP\WpfObserver\bin\Debug\WpfÖdev.exe.config
+C:\Users\furka\Desktop\OOP\WpfObserver\bin\Debug\WpfÖdev.exe
+C:\Users\furka\Desktop\OOP\WpfObserver\bin\Debug\WpfÖdev.pdb
+C:\Users\furka\Desktop\OOP\WpfObserver\obj\Debug\WpfObserver.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\OOP\WpfObserver\obj\Debug\MainWindow.baml
+C:\Users\furka\Desktop\OOP\WpfObserver\obj\Debug\MainWindow.g.cs
+C:\Users\furka\Desktop\OOP\WpfObserver\obj\Debug\App.g.cs
+C:\Users\furka\Desktop\OOP\WpfObserver\obj\Debug\WpfÖdev_MarkupCompile.cache
+C:\Users\furka\Desktop\OOP\WpfObserver\obj\Debug\WpfÖdev.g.resources
+C:\Users\furka\Desktop\OOP\WpfObserver\obj\Debug\WpfÖdev.Properties.Resources.resources
+C:\Users\furka\Desktop\OOP\WpfObserver\obj\Debug\WpfObserver.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\OOP\WpfObserver\obj\Debug\WpfObserver.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\OOP\WpfObserver\obj\Debug\WpfÖdev.exe
+C:\Users\furka\Desktop\OOP\WpfObserver\obj\Debug\WpfÖdev.pdb

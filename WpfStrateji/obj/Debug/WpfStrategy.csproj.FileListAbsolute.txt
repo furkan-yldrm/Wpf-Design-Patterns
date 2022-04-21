@@ -1,0 +1,14 @@
+C:\Users\furka\Desktop\OOP\WpfStrateji\bin\Debug\WpfÖdev.exe.config
+C:\Users\furka\Desktop\OOP\WpfStrateji\bin\Debug\WpfÖdev.exe
+C:\Users\furka\Desktop\OOP\WpfStrateji\bin\Debug\WpfÖdev.pdb
+C:\Users\furka\Desktop\OOP\WpfStrateji\obj\Debug\WpfStrategy.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\OOP\WpfStrateji\obj\Debug\MainWindow.baml
+C:\Users\furka\Desktop\OOP\WpfStrateji\obj\Debug\MainWindow.g.cs
+C:\Users\furka\Desktop\OOP\WpfStrateji\obj\Debug\App.g.cs
+C:\Users\furka\Desktop\OOP\WpfStrateji\obj\Debug\WpfÖdev_MarkupCompile.cache
+C:\Users\furka\Desktop\OOP\WpfStrateji\obj\Debug\WpfÖdev.g.resources
+C:\Users\furka\Desktop\OOP\WpfStrateji\obj\Debug\WpfÖdev.Properties.Resources.resources
+C:\Users\furka\Desktop\OOP\WpfStrateji\obj\Debug\WpfStrategy.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\OOP\WpfStrateji\obj\Debug\WpfStrategy.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\OOP\WpfStrateji\obj\Debug\WpfÖdev.exe
+C:\Users\furka\Desktop\OOP\WpfStrateji\obj\Debug\WpfÖdev.pdb

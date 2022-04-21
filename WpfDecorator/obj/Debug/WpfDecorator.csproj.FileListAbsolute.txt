@@ -1,0 +1,14 @@
+C:\Users\furka\Desktop\OOP\WpfDecorator\bin\Debug\WpfÖdev.exe.config
+C:\Users\furka\Desktop\OOP\WpfDecorator\bin\Debug\WpfÖdev.exe
+C:\Users\furka\Desktop\OOP\WpfDecorator\bin\Debug\WpfÖdev.pdb
+C:\Users\furka\Desktop\OOP\WpfDecorator\obj\Debug\WpfDecorator.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\OOP\WpfDecorator\obj\Debug\MainWindow.baml
+C:\Users\furka\Desktop\OOP\WpfDecorator\obj\Debug\MainWindow.g.cs
+C:\Users\furka\Desktop\OOP\WpfDecorator\obj\Debug\App.g.cs
+C:\Users\furka\Desktop\OOP\WpfDecorator\obj\Debug\WpfÖdev_MarkupCompile.cache
+C:\Users\furka\Desktop\OOP\WpfDecorator\obj\Debug\WpfÖdev.g.resources
+C:\Users\furka\Desktop\OOP\WpfDecorator\obj\Debug\WpfÖdev.Properties.Resources.resources
+C:\Users\furka\Desktop\OOP\WpfDecorator\obj\Debug\WpfDecorator.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\OOP\WpfDecorator\obj\Debug\WpfDecorator.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\OOP\WpfDecorator\obj\Debug\WpfÖdev.exe
+C:\Users\furka\Desktop\OOP\WpfDecorator\obj\Debug\WpfÖdev.pdb
